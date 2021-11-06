@@ -111,6 +111,7 @@
 - [Tableau](https://www.tableau.com)
 - Google Data Studio turns your data into informative dashboards and reports that are easy to read, easy to share, and fully customizable. Dashboarding allows you to tell great data stories to support better business decisions. https://www.google.com/analytics/data-studio/
 - Redash: Connect to any data source, easily visualize and share your data https://redash.io/
+- Houdini https://mapzilla.co.uk/
 
 ## WebGL Frameworks
 
@@ -135,6 +136,7 @@
 - [We are running out of ...](https://twitter.com/moritz_stefaner/status/1090179242686595073)
 - [What's really warming the world?](https://www.bloomberg.com/graphics/2015-whats-warming-the-world/)
 - [Simulation zeigt Gedeih und Verderb der Alpengletscher](https://www.spektrum.de/video/simulation-zeigt-gedeih-und-verderb-der-alpengletscher/1606514)
+- [Kartenvergleich zeigt den Gletscherschwund](https://tirol.orf.at/stories/3124214/)
 
 ----
 

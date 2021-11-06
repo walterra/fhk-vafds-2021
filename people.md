@@ -14,6 +14,7 @@
   - *Freelancing Data Visualization Designer. Graduated Astronomer. Love D3 | R | hexagons | travel | cats | paper art.*
   - https://twitter.com/NadiehBremer
   - https://www.visualcinnamon.com/ (Data Viz)
+  - https://www.youtube.com/watch?v=s_4GTDwFxoI (Interview)
 
 - Alberto Cairo
   - *Author, consultant and freelancer*
@@ -26,7 +27,7 @@
 - Kennedy Elliott
   - *Senior graphics editor at National Geographic*
   - https://twitter.com/kennelliott
-  - http://oblio.co/ 
+  - http://oblio.co/
 
 - Ben Fry
   - *Co-author/inventor processing.org*
@@ -84,6 +85,7 @@
 - Moritz Stefaner
   - *data visualisation specialist, freelancer*
   - https://truth-and-beauty.net/
+  - https://www.youtube.com/watch?v=EvWEEoh0d8E (Interview 2021)
 
 - Mary Eleanor Spear (1897 - 1986)
   - *Data visualization specialist, graphic analyst and author, who pioneered development of the bar chart and box plot.*
@@ -111,3 +113,15 @@
 - Hadley Wickham
   - *creator of ggplot*
   - http://hadley.nz/
+
+- John Burn-Murdoch
+  - Financial Times interactive news team
+  - https://twitter.com/jburnmurdoch
+  - https://www.youtube.com/watch?v=rplwvdOmKKc (Interview 2020)
+
+- Anna Wiederkehr
+  - designer with a background in journalism, interface and visualization design
+  - Senior visual journalist at FiveThirtyEight
+  - https://annawiederkehr.com/
+  - https://annawiederkehr.com/Process
+  - https://www.youtube.com/watch?v=Mnwhc1gVy40 (Interview 2020)
