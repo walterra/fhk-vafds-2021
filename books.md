@@ -1,11 +1,13 @@
 # Visual Analytics Books
 
-## Current Essentials (Pick one)
+## Current Standard Literature (Pick one)
 
 - *[Data Visualization Handbook](https://datavizhandbook.info/)*, 2019<br/>
   Juuso Koponen ([@infomuotoilu](https://twitter.com/infomuotoilu)) and Jonatan Hildén ([@jhilden](https://twitter.com/jhilden))
 - *[Better Data Visualizations](http://cup.columbia.edu/book/better-data-visualizations/9780231193115)*, 2021<br/>
   Jonathan Schwabish ([@jschwabish](https://twitter.com/jschwabish))
+- *[Visual Analytics for Data Scientists](https://link.springer.com/book/10.1007/978-3-030-56146-8)*, 2020<br>
+  Natalia Andrienko et al
 
 ## Classics
 
