@@ -28,7 +28,7 @@
 
 ## Other
 
-I don't have these books myself and haven't reviewed them, it's more like a wishlist, still, potentially useful of course, recommended by others.
+I didn't review all of these books, it's more like a wishlist, still, potentially useful of course, recommended by others.
 
 - *[The Wall Street Journal Guide to Information Graphics: The Dos and Don'ts of Presenting Data, Facts, and Figures](https://wwnorton.com/books/The-Wall-Street-Journal-Guide-to-Information-Graphics/)*, 2010<br/>
   Donna M. Wong
@@ -38,5 +38,5 @@ I don't have these books myself and haven't reviewed them, it's more like a wish
   Claus O. Wilke ([@ClausWilke](https://twitter.com/ClausWilke))
 - *[R for Data Science](https://r4ds.had.co.nz/)*, 2017<br/>
   Hadley Wickham ([@hadleywickham](https://twitter.com/hadleywickham))
-- *[Data Feminism](https://mitpress.mit.edu/books/data-feminism), 2020<br/>
+- *[Data Feminism](https://mitpress.mit.edu/books/data-feminism)*, 2020<br/>
   Catherine D'Ignazio ([@kanarinka](https://twitter.com/kanarinka)) and Lauren F. Klein ([@laurenfklein](https://twitter.com/laurenfklein))
