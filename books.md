@@ -11,7 +11,7 @@
 
 ## Classics
 
-- *[The Grammar of Graphics](https://link.springer.com/book/10.1007/0-387-28695-0)*, 2005<br/>
+- *[The Grammar of Graphics](https://link.springer.com/book/10.1007/0-387-28695-0)*, 1999<br/>
   Leland Wilkinson
 - *[Semiology of Graphics](https://www.esri.com/en-us/esri-press/browse/semiology-of-graphics-diagrams-networks-maps)*, 1967<br/>
   Jacques Bertin
